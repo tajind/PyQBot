@@ -5,14 +5,15 @@ A python discord bot that allows friends to join a queue and create private game
 ## Commands
 
 Prefix = "."
-**_Join / J_** - join the queue \
-**_Leave / L_** - leave the queue \
-**_ConfirmTeams_** -> yes or no - confirm the teams once the games are fair\
-**_Shuffle_** -> yes or no - to reshuffle the teams\
-**_Queue / Q_** - see who is in the queue currently\
-**_BotChannel_** - set a specific channel for bot to reply to commands to\
-**_RestartQ_** - restarts the queue, limited to authorized users\
-**_Currentmatch / current_** - check the ongoing match\
+
+- **_Join / J_** - join the queue \
+- **_Leave / L_** - leave the queue \
+- **_ConfirmTeams_** -> yes or no - confirm the teams once the games are fair\
+- **_Shuffle_** -> yes or no - to reshuffle the teams\
+- **_Queue / Q_** - see who is in the queue currently\
+- **_BotChannel_** - set a specific channel for bot to reply to commands to\
+- **_RestartQ_** - restarts the queue, limited to authorized users\
+- **_Currentmatch / current_** - check the ongoing match\
 
 ### Setup
 
